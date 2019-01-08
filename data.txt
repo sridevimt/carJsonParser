@@ -1,0 +1,201 @@
+[{
+"make": "Audi",
+
+	  "model": "A7",
+
+     "vin": "09AGHY64352JITEG98K",
+
+     "metadata" : {
+
+         "Color" : "Black",
+
+         "Notes" : "Scratches on the front side of the car"
+
+         },
+
+     "perdayrent" : {
+
+        "Price" : 140,
+
+         "Discount" : 15
+
+         },
+
+     "metrics" : {
+
+         "yoymaintenancecost" : 2190.76,
+
+         "depreciation": 2256.43,
+
+         "rentalcount" : {
+
+             "lastweek" : 4,
+
+             "yeartodate" : 221
+
+             }
+
+         }
+
+    },
+{
+"make": "Audi2",
+
+	  "model": "A8",
+
+     "vin": "09AGHY64352JITEG98K2",
+
+     "metadata" : {
+
+         "Color" : "Blue",
+
+         "Notes" : "Scratches on the front side of the car 2"
+
+         },
+
+     "perdayrent" : {
+
+        "Price" : 200,
+
+         "Discount" : 15
+
+         },
+
+     "metrics" : {
+
+         "yoymaintenancecost" : 2190.76,
+
+         "depreciation": 2256.43,
+
+         "rentalcount" : {
+
+             "lastweek" : 4,
+
+             "yeartodate" : 221
+
+             }
+
+         }
+
+    },
+{
+"make": "Tesla",
+
+	  "model": "S3",
+
+     "vin": "09AGHY64352JITEG98K2T1",
+
+     "metadata" : {
+
+         "Color" : "Blue",
+
+         "Notes" : "Scratches on the windows side of the Tesla"
+
+         },
+
+     "perdayrent" : {
+
+        "Price" : 300,
+
+         "Discount" : 15
+
+         },
+
+     "metrics" : {
+
+         "yoymaintenancecost" : 2190.76,
+
+         "depreciation": 2256.43,
+
+         "rentalcount" : {
+
+             "lastweek" : 4,
+
+             "yeartodate" : 221
+
+             }
+
+         }
+
+    },
+{
+"make": "Tesla",
+
+	  "model": "T1",
+
+     "vin": "09AGHY64352JITEG98K2T1",
+
+     "metadata" : {
+
+         "Color" : "Blue",
+
+         "Notes" : "All looks good"
+
+         },
+
+     "perdayrent" : {
+
+        "Price" : 75,
+
+         "Discount" : 15
+
+         },
+
+     "metrics" : {
+
+         "yoymaintenancecost" : 2190.76,
+
+         "depreciation": 2256.43,
+
+         "rentalcount" : {
+
+             "lastweek" : 4,
+
+             "yeartodate" : 221
+
+             }
+
+         }
+
+    },
+{
+"make": "Tesla",
+
+	  "model": "T2",
+
+     "vin": "09AGHY64352JITEG98K2T2",
+
+     "metadata" : {
+
+         "Color" : "Red",
+
+         "Notes" : "Head light damaged"
+
+         },
+
+     "perdayrent" : {
+
+        "Price" : 500,
+
+         "Discount" : 15
+
+         },
+
+     "metrics" : {
+
+         "yoymaintenancecost" : 2190.76,
+
+         "depreciation": 2256.43,
+
+         "rentalcount" : {
+
+             "lastweek" : 4,
+
+             "yeartodate" : 221
+
+             }
+
+         }
+
+    },
+]
